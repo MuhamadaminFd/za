@@ -1,0 +1,108 @@
+
+
+
+
+.more {
+    display: flex;
+    align-items: center; 
+}
+
+.more svg {
+    margin-right: 8px; 
+    
+}
+
+.profil{
+    display: flex;
+    align-items: center;
+}
+
+.profil svg {
+    margin-right: 8px;
+}
+
+
+.home{
+    display: flex;
+    align-items: center;
+
+}
+
+.home svg{
+    margin-right: 8px;
+}
+
+.serch{
+    display: flex;
+    align-items: center;
+}
+
+.serch svg{
+    margin-right: 8px;
+}
+
+.inter{
+    display: flex;
+    align-items: center;
+}
+
+.inter svg{
+    margin-right: 8px;
+}
+
+
+.reel{
+    display: flex;
+    align-items: center;
+}
+
+
+
+.reel svg{
+    margin-right: 8px;
+}
+
+
+.mess{
+    display: flex;
+    align-items: center;
+}
+
+
+.mess svg{
+    margin-right: 8px;
+}
+
+
+.notif{
+    display: flex;
+    align-items: center;
+}
+
+.notif svg{
+    margin-right: 8px;
+}
+
+
+.creat{
+    display: flex;
+    align-items: center;
+}
+
+.creat svg{
+    margin-right: 8px;
+}
+
+
+.profil{
+    display: flex;
+    align-items: center;
+}
+
+.profil svg{
+    margin-right: 8px;
+}
+
+
+
+
